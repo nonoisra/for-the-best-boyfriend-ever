@@ -13,9 +13,10 @@ const CONFIG = {
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
-    floatingEmojis: {
-        hearts: ['💜', '💜', '💜', '💜', '💜'],  // Heart emojis
-    },
+floatingEmojis: {
+    hearts: ['💜', '🌸', '💜', '🎀', '💜', '💕', '🍓', '💜'],  // Heart emojis
+    bears: ['🧸', '🧸', '🍆']  // Bear emojis
+},
 
     // Questions and answers
     // Customize each question and its possible responses
@@ -50,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "OMGGGGG YAYYAYAYAYY THANK YOU BABY THANK YOU THANK YOU THANK YOU I LOVE YOU IM SO LUCKY EEEE",
         message: "EEEEEEEE I LOVE YOU I LOVE YOUUUUUUUUUU 💞💞💞",
-        emojis: "💜🎀💜💕💜"  // These will bounce around
+        emojis: "˚˖𓍢ִ໋✧🛍️˚.🎀༘⋆"  // These will bounce around
     },
 
     // Color scheme for the website
