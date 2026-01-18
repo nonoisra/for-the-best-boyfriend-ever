@@ -51,7 +51,7 @@ floatingEmojis: {
     celebration: {
         title: "OMGGGGG YAYYAYAYAYY THANK YOU BABY THANK YOU THANK YOU THANK YOU I LOVE YOU IM SO LUCKY EEEE",
         message: "EEEEEEEE I LOVE YOU I LOVE YOUUUUUUUUUU 💞💞💞",
-        emojis: "˚˖𓍢ִ໋✧🛍️˚.🎀༘⋆"  // These will bounce around
+        emojis: "˚˖𓍢ִ໋✧🌸˚.🎀༘⋆"  // These will bounce around
     },
 
     // Color scheme for the website
